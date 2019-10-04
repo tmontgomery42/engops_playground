@@ -1,0 +1,1 @@
+#Test for deleting windows
